@@ -49,3 +49,28 @@ body {
     width:60%;
     transform: rotate(25deg);
 }
+
+/* unique selling points */
+.usp {
+    text-align: center;
+}
+
+.usp-icon {
+    font-size: 5rem;
+    color: #ef8172;    
+}
+
+.usp-icon:hover {
+    color: #ff4c68;
+}
+
+.usp-text {    
+    font-family: "Montserrat";
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+#features {
+    margin: 50px 0 0 0;
+}
