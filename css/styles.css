@@ -124,6 +124,24 @@ body {
     padding: 3% 2%;
 }
 
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+    color: white;
+    padding:3% 15% 4%;
+}
+
+#footer {
+    background-color: white;
+    text-align: center;
+    padding: 5%;
+    font-size: 0.7rem;
+}
+
+.social {
+    padding: 6px 6px 24px 6px;
+}
+
 @media (max-width: 1028px) {
     .title-image {
         position: static;
