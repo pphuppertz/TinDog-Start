@@ -1,13 +1,13 @@
 #title {
-    background-color:#ff4c68;
-    color: white;
     text-align: left;
 }
 
+.container-fluid {
+    padding: 3% 15%;    
+}
 
-
-body {
-    font-family: "Montserrat";  
+body {    
+    font-family: Montserrat;
     text-align: center;  
 }
 
@@ -19,9 +19,7 @@ p {
     color: #8f8f8f;
 }
 
-.big-heading {
-    font-family: "Montserrat"; 
-    font-weight: 800;
+.big-heading {    
     font-size: 3.5rem;
     line-height: 1.5;
 }
@@ -31,12 +29,17 @@ p {
     line-height: 1.5;
 }
 
-.container-fluid {
-    padding: 3% 15% 7%;
-}
-
 .container-padded {
     padding:7% 15%;
+}
+
+.colored-section {
+    background-color:#ff4c68;
+    color: white;
+}
+
+.white-section {
+    background-color: white
 }
 
 /* Navigation Bar */
@@ -99,9 +102,7 @@ p {
 }
 
 #testimonials {    
-    
-    background-color: #ef8172;
-    color: #fff;
+    background-color: #ef8172;    
 }
 
 .testimonial-image {
@@ -139,13 +140,7 @@ p {
     padding: 3% 2%;
 }
 
-#cta {
-    background-color: #ff4c68;    
-    color: white;    
-}
-
-#footer {
-    background-color: white;    
+#footer { 
     font-size: 0.7rem;
 }
 
